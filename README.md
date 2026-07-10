@@ -9,3 +9,10 @@ My 4-month journey into AI Engineering, Data Science, and Hackathons.
 - Learn Deep Learning
 - Build AI Projects
 - Participate in AI Hackathons
+ 
+ # Day 1
+- Set up a proper Python development environment.
+- Used Git and GitHub.
+- Built a command-line application.
+- Learned about secure configuration with .env.
+- Used Ruff to check your code style
