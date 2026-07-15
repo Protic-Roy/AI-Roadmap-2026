@@ -250,3 +250,14 @@ My program waits before retrying, preventing rapid repeated requests.
 - ✅ Retry Logic using `for` loops
 - ✅ `time.sleep()` for retry delays
 
+✅ Day 4 Progress Logged
+
+✅ Learned what OOP is
+✅ Understood Class vs Object
+✅ Created my first Python class
+✅ Learned __init__() (Constructor)
+✅ Understood self
+✅ Stored data using object attributes
+✅ Created multiple objects
+✅ Wrote my first class method (display())
+✅ Pushed today's work to GitHub
