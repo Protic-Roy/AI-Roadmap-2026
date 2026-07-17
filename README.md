@@ -250,15 +250,35 @@ My program waits before retrying, preventing rapid repeated requests.
 - ✅ Retry Logic using `for` loops
 - ✅ `time.sleep()` for retry delays
 
-✅ Day 4 Progress Logged
+## 📅 Day 4 – Object-Oriented Programming (OOP)
 
-✅ Learned what OOP is
-✅ Understood Class vs Object
-✅ Created my first Python class
-✅ Learned __init__() (Constructor)
-✅ Understood self
-✅ Stored data using object attributes
-✅ Created multiple objects
-✅ Wrote my first class method (display())
-✅ Pushed today's work to GitHub
+Today I learned the fundamentals of Object-Oriented Programming (OOP) in Python and how it is used to build modular, reusable, and scalable applications.
 
+✅ Topics Covered
+Created classes and objects
+Used the self parameter to access object attributes
+Worked with constructors using __init__()
+Built methods inside classes
+Understood the difference between instance variables and class variables
+Learned inheritance to reuse code from parent classes
+Used the pass keyword as a placeholder for empty classes
+Learned how super() calls the parent class constructor to avoid rewriting code
+Explored dunder (magic) methods
+Implemented __str__() to provide a clean and readable string representation of objects
+# 💻 Practice Completed
+Built a Book class with attributes and methods
+Created a Laptop class demonstrating class and instance variables
+Practiced inheritance with parent and child classes
+Used super() to initialize parent class attributes
+Customized object output using __str__()
+# 🧠 Key Takeaways
+Classes act as blueprints, while objects are their instances.
+Instance variables belong to individual objects, whereas class variables are shared across all instances.
+Inheritance helps reduce code duplication and improves code organization.
+super() enables child classes to reuse parent class functionality.
+__str__() makes objects easier to read when printed, which is useful for debugging and logging.
+🚀 Progress
+
+✅ Completed Day 4 – Core OOP Fundamentals
+
+Next: File Handling & Context Managers / Advanced OOP concepts for AI applications.
