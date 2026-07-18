@@ -282,3 +282,6 @@ __str__() makes objects easier to read when printed, which is useful for debuggi
 ✅ Completed Day 4 – Core OOP Fundamentals
 
 Next: File Handling & Context Managers / Advanced OOP concepts for AI applications.
+
+## Started advance oop for pyhton
+doing inheritance at first
