@@ -286,6 +286,7 @@ Next: File Handling & Context Managers / Advanced OOP concepts for AI applicatio
 ## Started advance oop for pyhton
 doing inheritance at first
 romancho niloy turno visted today for world cup final he will watch it with me on cmapus so today will be a off day 
+finished advance python only project left to do
 
 
 
